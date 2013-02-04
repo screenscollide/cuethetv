@@ -1,0 +1,44 @@
+extends main
+
+block javascripts
+  script(type="text/javascript", src="/js/plugins/iosslider/jquery.iosslider.min.js")
+  script(type="text/javascript")
+    $(document).ready(function(){
+      $.getScript( "/js/billboard.js" );
+    });
+
+block stylesheets
+  link(rel="stylesheet", href="/css/billboard.css")
+
+block content
+  div(class="container")
+    div(class="row")
+      div(class="span12")
+        h3 Billboard
+        
+        br
+        
+        .doubleSlider-1
+          .slider
+            - for (var i = 1; i <= 12; ++i) {
+              div(class="item item#{i}")
+                .caption
+                  span 
+                    strong Item #!{i} Item #!{i} Item #!{i} Item #!{i} Item #!{i}
+                  .bg
+            - }
+          
+        .doubleSliderPrevButton
+        
+        .doubleSlider-2
+          .slider
+            - for (var i = 1; i <= 12; ++i) {
+            div(class="button first item#{i}")
+              .border
+            - }
+        .doubleSliderNextButton
+
+    div(class="row")
+      div(class="span3")
+        div(class="cue")
+    br

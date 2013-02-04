@@ -1,0 +1,27 @@
+extends main
+
+block javascripts
+  //Google Javascript API
+  script(type="text/javascript", charset="utf-8", src="http://www.google.com/jsapi")
+  //SWF Object
+  script(type="text/javascript", charset="utf-8") google.load("swfobject", "2.1");
+
+  script(type="text/javascript", charset="utf-8")
+    google.setOnLoadCallback(function(){
+      $(document).ready(function(){
+        $.getScript( "/js/tv.js", getScriptCompleteHandler );
+          function getScriptCompleteHandler(e){
+            console.log("hello")
+            loadPlayer();
+          }
+        });
+      });
+
+block stylesheets
+  style(type="text/css", media="screen", src="/css/tv.css");
+  style(type="text/css", media="screen")
+    section{ text-align: center; }
+
+block content
+  section
+    #videoDiv
