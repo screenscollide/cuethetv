@@ -51,5 +51,5 @@ MIT
 
 *Free Software, Fuck Yeah!*
 
-  [@chrisaiv]: mail@chrisaiv.com
-  [@screenscollide]: mail@screenscollide.com
+[@screenscollide]: mail@screenscollide.com
+[@chrisaiv]: mail@chrisaiv.com
