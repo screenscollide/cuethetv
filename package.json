@@ -1,7 +1,10 @@
 {
   "name": "cuethetv",
   "subdomain": "cuethetv",
-  "version": "0.0.1-1",
+  "domains": [
+    "cuethetv.screenscollide.com"
+  ],
+  "version": "0.0.1-3",
   "private": true,
   "scripts": {
     "start": "app.js"
@@ -11,7 +14,7 @@
     "socket.io": "0.9.x",
     "nodemon": "0.6.x",
     "jade": "0.27.x",
-	"forever": "0.10.x",
+    "forever": "0.10.x",
     "sag": "0.3.x"
   },
   "engines": {
