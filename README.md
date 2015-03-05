@@ -1,10 +1,8 @@
-Cue the TV
+[http://cuethetv.screenscollide.com/](http://cuethetv.screenscollide.com/)
 =========
-
 
 ####Overview
 -
-
 Learn more about the shows you love by paring your connected TV with another device. To get started, simply visit http://cuethetv.screenscollide.com your smart TV and your mobile device.
 
 ####Objective
@@ -33,14 +31,9 @@ Present a second screen experience using rapid technologies (like HTML, CSS and 
 - jQuery UI Bootstrap
 - YouTube API v3
 
-####Demo
--
-- [http://cuethetv.screenscollide.com/](http://cuethetv.screenscollide.com/)
-
 ####Author
 -
 - Chris Mendez | [@chrismendezinla](http://twitter.com/chrismendezinla)
-
 
 ####Thanks
 -
