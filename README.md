@@ -33,15 +33,18 @@ Tools
 - YouTube API v3
 
 Version
-
+---
 1.0
+
+Author
+---
+[@chrismendezinla](http://twitter.com/chrismendezinla)
 
 Thanks
 -----------
-Lolita and the Bondage Experiment for producing the grandest expression, for the love of quarters, that anyone has ever seen. 
-http://www.youtube.com/watch?v=VFhUNrj3TJM
+- Lolita and the Bondage Experiment for producing the grandest expression, for the love of quarters, that anyone has ever seen. [http://www.youtube.com/watch?v=VFhUNrj3TJM](http://www.youtube.com/watch?v=VFhUNrj3TJM)
 
-http://www.facebook.com/pages/Lolita-and-the-Bondage-Experiment/177467936386?sk=photos_stream
+- [Flickr](http://www.facebook.com/pages/Lolita-and-the-Bondage-Experiment/177467936386?sk=photos_stream)
 
 
 License
@@ -50,6 +53,3 @@ License
 MIT
 
 *Free Software, Fuck Yeah!*
-
-[@screenscollide]: mail@screenscollide.com
-[@chrismendezinla]: http://twitter.com/chrismendezinla
