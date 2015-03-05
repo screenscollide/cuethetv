@@ -39,7 +39,7 @@ Present a second screen experience using rapid technologies (like HTML, CSS and 
 
 ####Author
 -
-- [@chrismendezinla](http://twitter.com/chrismendezinla)
+- Chris Mendez | [@chrismendezinla](http://twitter.com/chrismendezinla)
 
 
 ####Thanks
